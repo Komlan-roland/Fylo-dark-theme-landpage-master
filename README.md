@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd?tab=solutions)
+- Live Site URL: [Live site](https://fylo-dark-theme-landpage-master.netlify.app/)
 
 ## My process
 
@@ -40,7 +40,6 @@ Users should be able to:
 ### Useful resources
 
 - [Font awesome](https://fontawesome.com/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
 ## Author
 
 - Website - [Komlan Roland](https://komlan-roland-portofolio.netlify.app/)
